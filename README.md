@@ -4,6 +4,14 @@
 Es realizado con NodeJS y Express, con funcionalidad  en lo que respecta al Backend (endpoints APIs, routes, dao,  database).
 El objetivo de la aplicación está enfocado en el backend, el frontend es principalmente prueba de uso.
 
+## Descripciones generales
+La aplicación contiene:
+
+- Los Endpoints necesarios para listar productos existentes, ingresar productos nuevos, borrar y modificar sus detalles, así como interactuar con el carrito de compras.
+- Los productos, usuarios y carritos se almacenan en una base de datos MongoDB.
+- Se implementó un canal de chat basado en websockets.
+
+
  
 - Tecnologías utilizadas:     
     - `NodeJS`
